@@ -36,6 +36,6 @@ img{
     height: 30px;
     border: none;
     border-radius: 20px;
-    -webkit-border-radius
+    /* -webkit-border-radius */
 
 }
